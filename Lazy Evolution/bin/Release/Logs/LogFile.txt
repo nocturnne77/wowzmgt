@@ -1,0 +1,11 @@
+[20:25:36] Could not start the updating program, cannot auto update: System.ComponentModel.Win32Exception: Das System kann die angegebene Datei nicht finden
+   bei System.Diagnostics.Process.StartWithShellExecuteEx(ProcessStartInfo startInfo)
+   bei System.Diagnostics.Process.Start()
+   bei LazyEvo.Forms.Helpers.CheckUpdate.CheckForUpdate() in U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\Forms\Helpers\CheckUpdate.cs:Zeile 49.
+[20:25:40] Could not load a valid grinding profile
+[20:25:40] Lazybot Re-Evolution by mckemo, demoniste, z0yb3r
+[20:25:40] Mainthanks for this awesome bot goes to Arutha532
+[20:25:40] LazyBot is free and open source software!
+[20:25:40] Keys should be placed on bar 1-6 and position 1-9!
+[20:25:40] Check ownedcore.com for news and Updates
+[20:25:40] Attached

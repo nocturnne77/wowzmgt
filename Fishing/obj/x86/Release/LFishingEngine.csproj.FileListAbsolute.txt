@@ -1,0 +1,11 @@
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\bin\x86\Release\LFishingEngine.dll
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\bin\x86\Release\LFishingEngine.pdb
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\bin\x86\Release\DevComponents.DotNetBar2.dll
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\bin\x86\Release\LazyLib.dll
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\bin\x86\Release\System.Data.SQLite.dll
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\LFishingEngine.Settings.resources
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\LFishingEngine.dll
+C:\Users\Gentooz\Desktop\LazyBot evolution\Fishing\obj\x86\Release\LFishingEngine.pdb

@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<Behavior>
+  <CombatDistance>3</CombatDistance>
+  <PullDistance>9</PullDistance>
+  <PrePullDistance>30</PrePullDistance>
+  <UseAutoAttack>True</UseAutoAttack>
+  <SendPet>False</SendPet>
+  <GlobalCooldown>2000</GlobalCooldown>
+  <PrePullController>
+  </PrePullController>
+  <PullController>
+  </PullController>
+  <CombatController>
+  </CombatController>
+  <BuffController>
+    <Rule>
+      <Name>Seal of Righteousness</Name>
+      <Script><![CDATA[]]></Script>
+      <MatchAll>True</MatchAll>
+      <ShouldTarget>Enemy</ShouldTarget>
+      <Priority>0</Priority>
+      <Action>
+        <Type>ActionSpell</Type>
+        <Name>Seal of Righteousness</Name>
+      </Action>
+      <BuffCondition>
+        <ConditionTarget>Player</ConditionTarget>
+        <Condition>DoesNotHave</Condition>
+        <OwnerCondition>DoesNotMatter</OwnerCondition>
+        <ValueType>Name</ValueType>
+        <Value>Seal of Righteousness</Value>
+      </BuffCondition>
+    </Rule>
+    <Rule>
+      <Name>Devotion Aura</Name>
+      <Script><![CDATA[]]></Script>
+      <MatchAll>True</MatchAll>
+      <ShouldTarget>Enemy</ShouldTarget>
+      <Priority>1</Priority>
+      <Action>
+        <Type>ActionSpell</Type>
+        <Name>Devotion Aura</Name>
+      </Action>
+      <BuffCondition>
+        <ConditionTarget>Player</ConditionTarget>
+        <Condition>DoesNotHave</Condition>
+        <OwnerCondition>DoesNotMatter</OwnerCondition>
+        <ValueType>Name</ValueType>
+        <Value>Devotion Aura</Value>
+      </BuffCondition>
+    </Rule>
+    <Rule>
+      <Name>Blessing of Kings</Name>
+      <Script><![CDATA[]]></Script>
+      <MatchAll>True</MatchAll>
+      <ShouldTarget>Enemy</ShouldTarget>
+      <Priority>2</Priority>
+      <Action>
+        <Type>ActionSpell</Type>
+        <Name>Blessing of Kings</Name>
+      </Action>
+      <BuffCondition>
+        <ConditionTarget>Player</ConditionTarget>
+        <Condition>DoesNotHave</Condition>
+        <OwnerCondition>DoesNotMatter</OwnerCondition>
+        <ValueType>Name</ValueType>
+        <Value>Blessing of Kings</Value>
+      </BuffCondition>
+    </Rule>
+  </BuffController>
+  <RestController>
+  </RestController>
+</Behavior>

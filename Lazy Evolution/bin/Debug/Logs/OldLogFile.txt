@@ -1,0 +1,359 @@
+[00:36:39] Could not load a valid grinding profile
+[00:36:39] Lazybot Re-Evolution by mckemo, demoniste, z0yb3r
+[00:36:39] Mainthanks for this awesome bot goes to Arutha532
+[00:36:39] LazyBot is free and open source software!
+[00:36:39] Keys should be placed on bar 1-6 and position 1-9!
+[00:36:39] Attached
+[00:38:19] [Mapper] We loaded 49442 spells
+[00:38:19] Found key: Shield of the Righteous : 1 : 0
+[00:38:19] Found key: Hammer of the Righteous : 1 : 9
+[00:38:19] Found key: Hammer of Wrath : 1 : 8
+[00:38:19] Found key: Word of Glory : 1 : 7
+[00:38:19] Found key: Hammer of Justice : 1 : 6
+[00:38:19] Found key: Consecration : 1 : 5
+[00:38:19] Found key: Avenger's Shield : 1 : 4
+[00:38:19] Found key: Judgement : 1 : 3
+[00:38:19] Found key: Crusader Strike : 1 : 2
+[00:38:19] Found key: Divine Protection : 6 : 0
+[00:38:19] Found key: Blessing of Kings : 6 : 9
+[00:38:19] Found key: Holy Wrath : 6 : 8
+[00:38:19] Found key: Divine Shield : 6 : 7
+[00:38:19] Found key: Hand of Protection : 6 : 6
+[00:38:19] Found key: Hand of Reckoning : 6 : 5
+[00:38:19] Found key: Lay on Hands : 6 : 4
+[00:38:19] Found key: Exorcism : 6 : 3
+[00:38:19] Found key: Seal of Truth : 6 : 2
+[00:38:19] Found key: Righteous Fury : 6 : 1
+[00:38:19] Found key: Inquisition : 5 : 0
+[00:38:19] Found key: Holy Light : 5 : 9
+[00:38:19] Found key: Grovel : 5 : 8
+[00:38:19] Found key: Ardent Defender : 5 : 7
+[00:38:19] Found key: Turn Evil : 5 : 6
+[00:38:19] Found key: Divine Light : 5 : 5
+[00:38:19] Found key: Holy Shield : 5 : 4
+[00:38:19] Found key: Divine Plea : 5 : 2
+[00:38:19] Found key: Divine Guardian : 5 : 1
+[00:38:19] Found key: Cleanse : 3 : 9
+[00:38:19] Found key: Holy Radiance : 3 : 7
+[00:38:19] Found key: Avenging Wrath : 3 : 6
+[00:38:19] Found key: Redemption : 3 : 4
+[00:38:19] Found key: Blessing of Might : 3 : 2
+[00:38:19] Key: Inquisition : 3 : 1 is a duplicate
+[00:38:19] Key: interacttarget potentially bound incorrectly, should be: p
+[00:38:21] Please load a profile
+[00:38:21] Engine returned false on load
+[00:38:27] Could not load a valid flying profile
+[00:39:01] Found key: Shield of the Righteous : 1 : 0
+[00:39:01] Found key: Hammer of the Righteous : 1 : 9
+[00:39:01] Found key: Hammer of Wrath : 1 : 8
+[00:39:01] Found key: Word of Glory : 1 : 7
+[00:39:01] Found key: Hammer of Justice : 1 : 6
+[00:39:01] Found key: Consecration : 1 : 5
+[00:39:01] Found key: Avenger's Shield : 1 : 4
+[00:39:01] Found key: Judgement : 1 : 3
+[00:39:01] Found key: Crusader Strike : 1 : 2
+[00:39:01] Found key: Divine Protection : 6 : 0
+[00:39:01] Found key: Blessing of Kings : 6 : 9
+[00:39:01] Found key: Holy Wrath : 6 : 8
+[00:39:01] Found key: Divine Shield : 6 : 7
+[00:39:01] Found key: Hand of Protection : 6 : 6
+[00:39:01] Found key: Hand of Reckoning : 6 : 5
+[00:39:01] Found key: Lay on Hands : 6 : 4
+[00:39:01] Found key: Exorcism : 6 : 3
+[00:39:01] Found key: Seal of Truth : 6 : 2
+[00:39:01] Found key: Righteous Fury : 6 : 1
+[00:39:01] Found key: Inquisition : 5 : 0
+[00:39:01] Found key: Holy Light : 5 : 9
+[00:39:01] Found key: Grovel : 5 : 8
+[00:39:01] Found key: Ardent Defender : 5 : 7
+[00:39:01] Found key: Turn Evil : 5 : 6
+[00:39:01] Found key: Divine Light : 5 : 5
+[00:39:01] Found key: Holy Shield : 5 : 4
+[00:39:01] Found key: Divine Plea : 5 : 2
+[00:39:01] Found key: Divine Guardian : 5 : 1
+[00:39:01] Found key: Cleanse : 3 : 9
+[00:39:01] Found key: Holy Radiance : 3 : 7
+[00:39:01] Found key: Avenging Wrath : 3 : 6
+[00:39:01] Found key: Redemption : 3 : 4
+[00:39:01] Found key: Blessing of Might : 3 : 2
+[00:39:01] Key: Inquisition : 3 : 1 is a duplicate
+[00:39:01] Key: interacttarget potentially bound incorrectly, should be: p
+[00:39:03] Mines: 34 - Herbs: 57
+[00:39:03] Could not load the behavior, please select a different one
+[00:39:03] CustomClass returned false on StartOk not starting
+[00:39:14] Found key: Shield of the Righteous : 1 : 0
+[00:39:14] Found key: Hammer of the Righteous : 1 : 9
+[00:39:14] Found key: Hammer of Wrath : 1 : 8
+[00:39:14] Found key: Word of Glory : 1 : 7
+[00:39:14] Found key: Hammer of Justice : 1 : 6
+[00:39:14] Found key: Consecration : 1 : 5
+[00:39:14] Found key: Avenger's Shield : 1 : 4
+[00:39:14] Found key: Judgement : 1 : 3
+[00:39:14] Found key: Crusader Strike : 1 : 2
+[00:39:14] Found key: Divine Protection : 6 : 0
+[00:39:14] Found key: Blessing of Kings : 6 : 9
+[00:39:14] Found key: Holy Wrath : 6 : 8
+[00:39:14] Found key: Divine Shield : 6 : 7
+[00:39:14] Found key: Hand of Protection : 6 : 6
+[00:39:14] Found key: Hand of Reckoning : 6 : 5
+[00:39:14] Found key: Lay on Hands : 6 : 4
+[00:39:14] Found key: Exorcism : 6 : 3
+[00:39:14] Found key: Seal of Truth : 6 : 2
+[00:39:14] Found key: Righteous Fury : 6 : 1
+[00:39:14] Found key: Inquisition : 5 : 0
+[00:39:14] Found key: Holy Light : 5 : 9
+[00:39:14] Found key: Grovel : 5 : 8
+[00:39:14] Found key: Ardent Defender : 5 : 7
+[00:39:14] Found key: Turn Evil : 5 : 6
+[00:39:14] Found key: Divine Light : 5 : 5
+[00:39:14] Found key: Holy Shield : 5 : 4
+[00:39:14] Found key: Divine Plea : 5 : 2
+[00:39:14] Found key: Divine Guardian : 5 : 1
+[00:39:14] Found key: Cleanse : 3 : 9
+[00:39:14] Found key: Holy Radiance : 3 : 7
+[00:39:14] Found key: Avenging Wrath : 3 : 6
+[00:39:14] Found key: Redemption : 3 : 4
+[00:39:14] Found key: Blessing of Might : 3 : 2
+[00:39:14] Key: Inquisition : 3 : 1 is a duplicate
+[00:39:14] Key: interacttarget potentially bound incorrectly, should be: p
+[00:39:16] Mines: 34 - Herbs: 57
+[00:39:16] Could not load the behavior, please select a different one
+[00:39:16] CustomClass returned false on StartOk not starting
+[00:39:36] Found key: Shield of the Righteous : 1 : 0
+[00:39:36] Found key: Hammer of the Righteous : 1 : 9
+[00:39:36] Found key: Hammer of Wrath : 1 : 8
+[00:39:36] Found key: Word of Glory : 1 : 7
+[00:39:36] Found key: Hammer of Justice : 1 : 6
+[00:39:36] Found key: Consecration : 1 : 5
+[00:39:36] Found key: Avenger's Shield : 1 : 4
+[00:39:36] Found key: Judgement : 1 : 3
+[00:39:36] Found key: Crusader Strike : 1 : 2
+[00:39:36] Found key: Divine Protection : 6 : 0
+[00:39:36] Found key: Blessing of Kings : 6 : 9
+[00:39:36] Found key: Holy Wrath : 6 : 8
+[00:39:36] Found key: Divine Shield : 6 : 7
+[00:39:36] Found key: Hand of Protection : 6 : 6
+[00:39:36] Found key: Hand of Reckoning : 6 : 5
+[00:39:36] Found key: Lay on Hands : 6 : 4
+[00:39:36] Found key: Exorcism : 6 : 3
+[00:39:36] Found key: Seal of Truth : 6 : 2
+[00:39:36] Found key: Righteous Fury : 6 : 1
+[00:39:36] Found key: Inquisition : 5 : 0
+[00:39:36] Found key: Holy Light : 5 : 9
+[00:39:36] Found key: Grovel : 5 : 8
+[00:39:36] Found key: Ardent Defender : 5 : 7
+[00:39:36] Found key: Turn Evil : 5 : 6
+[00:39:36] Found key: Divine Light : 5 : 5
+[00:39:36] Found key: Holy Shield : 5 : 4
+[00:39:36] Found key: Divine Plea : 5 : 2
+[00:39:36] Found key: Divine Guardian : 5 : 1
+[00:39:36] Found key: Cleanse : 3 : 9
+[00:39:36] Found key: Holy Radiance : 3 : 7
+[00:39:36] Found key: Avenging Wrath : 3 : 6
+[00:39:36] Found key: Redemption : 3 : 4
+[00:39:36] Found key: Blessing of Might : 3 : 2
+[00:39:36] Key: Inquisition : 3 : 1 is a duplicate
+[00:39:36] Key: interacttarget potentially bound incorrectly, should be: p
+[00:39:38] Mines: 34 - Herbs: 57
+[00:39:38] Key: Seal of Righteousness does not exist on your bars
+[00:39:38] Key: Devotion Aura does not exist on your bars
+[00:39:38] Relogger: False
+[00:39:38] Engine: Flying Engine
+[00:39:38] Bot started
+[00:39:38] [Engine]Initializing
+[00:39:38] [Engine]Started bot thread
+[00:39:38] State changed: Mounting
+[00:39:39] SendKey: FMount Bar: 0 Key: 0
+[00:39:42] SendKey: FMount Bar: 0 Key: 0
+[00:39:45] SendKey: FMount Bar: 0 Key: 0
+[00:39:48] Bot stopped
+[00:39:49] Could not find the file MailList.xml will not mail anything
+[00:39:49] Could not find the file ProtectedList.xml will not mail anything
+[00:39:52] Could not find the file MailList.xml will not mail anything
+[00:39:52] Could not find the file ProtectedList.xml will not mail anything
+[00:39:52] Could not find the file MailList.xml will not mail anything
+[00:39:52] Could not find the file ProtectedList.xml will not mail anything
+[00:40:07] Found key: Shield of the Righteous : 1 : 0
+[00:40:07] Found key: Hammer of the Righteous : 1 : 9
+[00:40:07] Found key: Hammer of Wrath : 1 : 8
+[00:40:07] Found key: Word of Glory : 1 : 7
+[00:40:07] Found key: Hammer of Justice : 1 : 6
+[00:40:07] Found key: Consecration : 1 : 5
+[00:40:07] Found key: Avenger's Shield : 1 : 4
+[00:40:07] Found key: Judgement : 1 : 3
+[00:40:07] Found key: Crusader Strike : 1 : 2
+[00:40:07] Found key: Divine Protection : 6 : 0
+[00:40:07] Found key: Blessing of Kings : 6 : 9
+[00:40:07] Found key: Holy Wrath : 6 : 8
+[00:40:07] Found key: Divine Shield : 6 : 7
+[00:40:07] Found key: Hand of Protection : 6 : 6
+[00:40:07] Found key: Hand of Reckoning : 6 : 5
+[00:40:07] Found key: Lay on Hands : 6 : 4
+[00:40:07] Found key: Exorcism : 6 : 3
+[00:40:07] Found key: Seal of Truth : 6 : 2
+[00:40:07] Found key: Righteous Fury : 6 : 1
+[00:40:07] Found key: Inquisition : 5 : 0
+[00:40:07] Found key: Holy Light : 5 : 9
+[00:40:07] Found key: Grovel : 5 : 8
+[00:40:07] Found key: Ardent Defender : 5 : 7
+[00:40:07] Found key: Turn Evil : 5 : 6
+[00:40:07] Found key: Divine Light : 5 : 5
+[00:40:07] Found key: Holy Shield : 5 : 4
+[00:40:07] Found key: Divine Plea : 5 : 2
+[00:40:07] Found key: Divine Guardian : 5 : 1
+[00:40:07] Found key: Cleanse : 3 : 9
+[00:40:07] Found key: Holy Radiance : 3 : 7
+[00:40:07] Found key: Avenging Wrath : 3 : 6
+[00:40:07] Found key: Redemption : 3 : 4
+[00:40:07] Found key: Blessing of Might : 3 : 2
+[00:40:07] Key: Inquisition : 3 : 1 is a duplicate
+[00:40:07] Key: interacttarget potentially bound incorrectly, should be: p
+[00:40:09] Mines: 34 - Herbs: 57
+[00:40:10] Key: Seal of Righteousness does not exist on your bars
+[00:40:10] Key: Devotion Aura does not exist on your bars
+[00:40:10] Relogger: False
+[00:40:10] Engine: Flying Engine
+[00:40:10] Bot started
+[00:40:10] [Engine]Initializing
+[00:40:10] [Engine]Started bot thread
+[00:40:10] State changed: Mounting
+[00:40:11] SendKey: FMount Bar: 1 Key: 1
+[00:40:13] State changed: Navigating
+[00:40:21] Bot stopped
+[00:40:25] Found key: Shield of the Righteous : 1 : 0
+[00:40:25] Found key: Hammer of the Righteous : 1 : 9
+[00:40:25] Found key: Hammer of Wrath : 1 : 8
+[00:40:25] Found key: Word of Glory : 1 : 7
+[00:40:25] Found key: Hammer of Justice : 1 : 6
+[00:40:25] Found key: Consecration : 1 : 5
+[00:40:25] Found key: Avenger's Shield : 1 : 4
+[00:40:25] Found key: Judgement : 1 : 3
+[00:40:25] Found key: Crusader Strike : 1 : 2
+[00:40:25] Found key: Divine Protection : 6 : 0
+[00:40:25] Found key: Blessing of Kings : 6 : 9
+[00:40:25] Found key: Holy Wrath : 6 : 8
+[00:40:25] Found key: Divine Shield : 6 : 7
+[00:40:25] Found key: Hand of Protection : 6 : 6
+[00:40:25] Found key: Hand of Reckoning : 6 : 5
+[00:40:25] Found key: Lay on Hands : 6 : 4
+[00:40:25] Found key: Exorcism : 6 : 3
+[00:40:25] Found key: Seal of Truth : 6 : 2
+[00:40:25] Found key: Righteous Fury : 6 : 1
+[00:40:25] Found key: Inquisition : 5 : 0
+[00:40:25] Found key: Holy Light : 5 : 9
+[00:40:25] Found key: Grovel : 5 : 8
+[00:40:25] Found key: Ardent Defender : 5 : 7
+[00:40:25] Found key: Turn Evil : 5 : 6
+[00:40:25] Found key: Divine Light : 5 : 5
+[00:40:25] Found key: Holy Shield : 5 : 4
+[00:40:25] Found key: Divine Plea : 5 : 2
+[00:40:25] Found key: Divine Guardian : 5 : 1
+[00:40:25] Found key: Cleanse : 3 : 9
+[00:40:25] Found key: Holy Radiance : 3 : 7
+[00:40:25] Found key: Avenging Wrath : 3 : 6
+[00:40:25] Found key: Redemption : 3 : 4
+[00:40:25] Found key: Blessing of Might : 3 : 2
+[00:40:25] Key: Inquisition : 3 : 1 is a duplicate
+[00:40:25] Key: interacttarget potentially bound incorrectly, should be: p
+[00:40:27] Mines: 34 - Herbs: 57
+[00:40:27] Key: Seal of Righteousness does not exist on your bars
+[00:40:27] Key: Devotion Aura does not exist on your bars
+[00:40:27] Relogger: False
+[00:40:27] Engine: Flying Engine
+[00:40:27] Bot started
+[00:40:27] [Engine]Initializing
+[00:40:27] [Engine]Started bot thread
+[00:40:27] State changed: Navigating
+[00:41:44] Bot stopped
+[00:42:26] Found key: Shield of the Righteous : 1 : 0
+[00:42:26] Found key: Hammer of the Righteous : 1 : 9
+[00:42:26] Found key: Hammer of Wrath : 1 : 8
+[00:42:26] Found key: Word of Glory : 1 : 7
+[00:42:26] Found key: Hammer of Justice : 1 : 6
+[00:42:26] Found key: Consecration : 1 : 5
+[00:42:26] Found key: Avenger's Shield : 1 : 4
+[00:42:26] Found key: Judgement : 1 : 3
+[00:42:26] Found key: Crusader Strike : 1 : 2
+[00:42:26] Found key: Divine Protection : 6 : 0
+[00:42:26] Found key: Blessing of Kings : 6 : 9
+[00:42:26] Found key: Holy Wrath : 6 : 8
+[00:42:26] Found key: Divine Shield : 6 : 7
+[00:42:26] Found key: Hand of Protection : 6 : 6
+[00:42:26] Found key: Hand of Reckoning : 6 : 5
+[00:42:26] Found key: Lay on Hands : 6 : 4
+[00:42:26] Found key: Exorcism : 6 : 3
+[00:42:26] Found key: Seal of Truth : 6 : 2
+[00:42:26] Found key: Righteous Fury : 6 : 1
+[00:42:26] Found key: Inquisition : 5 : 0
+[00:42:26] Found key: Holy Light : 5 : 9
+[00:42:26] Found key: Grovel : 5 : 8
+[00:42:26] Found key: Ardent Defender : 5 : 7
+[00:42:26] Found key: Turn Evil : 5 : 6
+[00:42:26] Found key: Divine Light : 5 : 5
+[00:42:26] Found key: Holy Shield : 5 : 4
+[00:42:26] Found key: Divine Plea : 5 : 2
+[00:42:26] Found key: Divine Guardian : 5 : 1
+[00:42:26] Found key: Cleanse : 3 : 9
+[00:42:26] Found key: Holy Radiance : 3 : 7
+[00:42:26] Found key: Avenging Wrath : 3 : 6
+[00:42:26] Found key: Redemption : 3 : 4
+[00:42:26] Found key: Blessing of Might : 3 : 2
+[00:42:26] Key: Inquisition : 3 : 1 is a duplicate
+[00:42:26] Key: interacttarget potentially bound incorrectly, should be: p
+[00:42:28] Mines: 1 - Herbs: 57
+[00:42:28] Key: Seal of Righteousness does not exist on your bars
+[00:42:28] Key: Devotion Aura does not exist on your bars
+[00:42:28] Relogger: False
+[00:42:28] Engine: Flying Engine
+[00:42:28] Bot started
+[00:42:28] [Engine]Initializing
+[00:42:28] [Engine]Started bot thread
+[00:42:28] State changed: Navigating
+[00:42:31] Bot stopped
+[00:42:51] Found key: Shield of the Righteous : 1 : 0
+[00:42:51] Found key: Hammer of the Righteous : 1 : 9
+[00:42:51] Found key: Hammer of Wrath : 1 : 8
+[00:42:51] Found key: Word of Glory : 1 : 7
+[00:42:51] Found key: Hammer of Justice : 1 : 6
+[00:42:51] Found key: Consecration : 1 : 5
+[00:42:51] Found key: Avenger's Shield : 1 : 4
+[00:42:51] Found key: Judgement : 1 : 3
+[00:42:51] Found key: Crusader Strike : 1 : 2
+[00:42:51] Found key: Divine Protection : 6 : 0
+[00:42:51] Found key: Blessing of Kings : 6 : 9
+[00:42:51] Found key: Holy Wrath : 6 : 8
+[00:42:51] Found key: Divine Shield : 6 : 7
+[00:42:51] Found key: Hand of Protection : 6 : 6
+[00:42:51] Found key: Hand of Reckoning : 6 : 5
+[00:42:51] Found key: Lay on Hands : 6 : 4
+[00:42:51] Found key: Exorcism : 6 : 3
+[00:42:51] Found key: Seal of Truth : 6 : 2
+[00:42:51] Found key: Righteous Fury : 6 : 1
+[00:42:51] Found key: Inquisition : 5 : 0
+[00:42:51] Found key: Holy Light : 5 : 9
+[00:42:51] Found key: Grovel : 5 : 8
+[00:42:51] Found key: Ardent Defender : 5 : 7
+[00:42:51] Found key: Turn Evil : 5 : 6
+[00:42:51] Found key: Divine Light : 5 : 5
+[00:42:51] Found key: Holy Shield : 5 : 4
+[00:42:51] Found key: Divine Plea : 5 : 2
+[00:42:51] Found key: Divine Guardian : 5 : 1
+[00:42:51] Found key: Cleanse : 3 : 9
+[00:42:51] Found key: Holy Radiance : 3 : 7
+[00:42:51] Found key: Avenging Wrath : 3 : 6
+[00:42:51] Found key: Redemption : 3 : 4
+[00:42:51] Found key: Blessing of Might : 3 : 2
+[00:42:51] Key: Inquisition : 3 : 1 is a duplicate
+[00:42:51] Key: interacttarget potentially bound incorrectly, should be: p
+[00:42:53] Mines: 1 - Herbs: 57
+[00:42:53] Key: Seal of Righteousness does not exist on your bars
+[00:42:53] Key: Devotion Aura does not exist on your bars
+[00:42:53] Relogger: False
+[00:42:53] Engine: Flying Engine
+[00:42:53] Bot started
+[00:42:53] [Engine]Initializing
+[00:42:53] [Engine]Started bot thread
+[00:42:53] State changed: Mounting
+[00:42:54] SendKey: FMount Bar: 1 Key: 1
+[00:42:56] State changed: Navigating
+[00:43:34] Bot stopped

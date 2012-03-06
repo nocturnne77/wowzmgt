@@ -1,0 +1,55 @@
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\ResolveAssemblyReference.cache
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\ResGen.read.1.tlog
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\ResGen.write.1.tlog
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Debug.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Wizard.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LFlyingEngine.FlyingProfiles.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LFlyingEngine.FlyingProfileForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.Helpers.ConverterForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.NpcClasses.TrainerDialog.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.PathControl.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LFlyingEngine.Settings.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Main.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Setup.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.LGrindEngine.Settings.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.ExtraLazy.frmFrameDumper.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.LazyData.frmProfessions.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotatorForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotationForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotationManagerForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Plugins.RotationPlugin.RotatorStatus.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Properties.Resources.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.Forms.Selector.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.BehaviorForm.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.Builders.DeathknightBuilder.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.Builders.PaladinBuilder.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.RuleEditor.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\LazyEvo.PVEBehavior.ScriptEditor.resources
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\Lazy Evolution.exe
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\obj\x86\Debug\Lazy Evolution.pdb
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\falert.wav
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Langs.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\palert.wav
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\School.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Herb_de.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Herb_en.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Herb_es.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Herb_fr.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Herb_ru.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Mine_de.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Mine_en.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Mine_es.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Mine_fr.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Collect\Mine_ru.xml
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Lazy Evolution.exe.config
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Lazy Evolution.exe
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\Lazy Evolution.pdb
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\CSScriptLibrary.v3.5.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\curmoho.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\DevComponents.DotNetBar2.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\LazyLib.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\QuickGraph.Data.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\QuickGraph.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\QuickGraph.Graphviz.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\System.Data.SQLite.dll
+U:\Users\kemo\Documents\lazy3\LazyBot evolution\Lazy Evolution\bin\Debug\LazyLib.pdb

@@ -1,0 +1,8 @@
+[20:25:00] Could not load a valid grinding profile
+[20:25:00] Lazybot Re-Evolution by mckemo, demoniste, z0yb3r
+[20:25:00] Mainthanks for this awesome bot goes to Arutha532
+[20:25:00] LazyBot is free and open source software!
+[20:25:00] Keys should be placed on bar 1-6 and position 1-9!
+[20:25:00] Check ownedcore.com for news and Updates
+[20:25:00] Attached
+[20:25:14] [Mapper] We loaded 49442 spells
