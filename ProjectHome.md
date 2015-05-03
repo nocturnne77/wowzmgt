@@ -1,0 +1,1 @@
+We are bringing forward a new project that'll be completely open source and free to all that need a top-notch World of Warcraft Automated Tool.
